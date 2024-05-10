@@ -3,7 +3,7 @@ module github.com/goal-web/ratelimiter
 go 1.20
 
 require (
-	github.com/goal-web/contracts v0.2.0
+	github.com/goal-web/contracts v0.3.0
 	go.uber.org/ratelimit v0.2.0
 )
 
