@@ -1,6 +1,6 @@
 module github.com/goal-web/ratelimiter
 
-go 1.23.1
+go 1.23.2
 
 require go.uber.org/ratelimit v0.2.0
 
